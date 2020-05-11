@@ -13,4 +13,4 @@ Research Goals:
 
 The .slides file is an html document - a slide deck created with the RISE extension in Jupyter Notebook, and what I used to present to an audience for a grade. Downloading the file and launching it from your local machine is recommended.
 
-The project that was submitted to the grading team is a Juputer Notebook file. It contains complete code, and a more detailed analysis. It can be found here: https://drive.google.com/file/d/1c8gHAq13Pi5t0oZBt9tw0ad2C0eruVkk/view?usp=sharing
+The project that was submitted to the grading team is a Notebook file (Google Colaboratory) file. It contains complete code, and a more detailed analysis. It can be found here: https://drive.google.com/file/d/1c8gHAq13Pi5t0oZBt9tw0ad2C0eruVkk/view?usp=sharing
