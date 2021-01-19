@@ -3,7 +3,7 @@ A/B Testing and Analysis of NASA's Exoplanet Archive
 
 Thinkful Data Science Capstone 1: Experimental Design
 
-This is my experimental design research project for Thinkful's Data Science boot camp.
+This is my experimental design research project for Thinkful's Data Science program.
 
 Research Goals:
 
